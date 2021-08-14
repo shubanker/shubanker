@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working at <img src="https://www.dbs.com/in/iwov-resources/flp/splitter/images/dbs_logo.svg" alt="DBS Bank"/>
 
-
 - 💬 Ask me about **Javascript Development**
 
 - 📫 How to reach me **subhankerchourasia@gmail.com**
@@ -23,7 +22,6 @@
 </p>
 
 <hr>
-
 
 <h3 align="left">Frontend Stack</h3>
 <p>
@@ -57,7 +55,9 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/shubanker/shubanker/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <!--
 **shubanker/shubanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
