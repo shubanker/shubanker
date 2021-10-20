@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/shubanker/shubanker/main/assets/wave.gif" 
-         alt="Waving hand"
+         alt=""
          height="45"
          width="45" />, I'm Shubanker Chourasia</h1>
 
