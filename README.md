@@ -7,14 +7,14 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=shubanker&label=Profile%20views&color=0e75b6&style=flat" alt="shubanker" /> </p>
 
-- 🔭 I’m currently working at <img src="https://www.dbs.com/in/iwov-resources/flp/splitter/images/dbs_logo.svg" alt="DBS Bank"/>
+- 🔭 I’m currently working at <a href="https://www.sap.com/india/about/labs-india.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="50" alt="SAP Labs"/></a>
 
 - 💬 Ask me about **Javascript Development**
 
-- 📫 How to reach me **subhankerchourasia@gmail.com**
-
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/shubanker" target="_blank">here</a>.
+<!--
 - 📄 Know about my experiences [My Resume](https://shubanker.github.io/docs/Shubanker_resume.pdf)
-
+  -->
 <p>
     <a align= "center" href="https://github.com/shubanker">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shubanker&theme=cobalt&show_icons=true&count_private=true" />
