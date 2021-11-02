@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript Development**
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/shubanker" target="_blank">here</a>.
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/shubanker" target="_blank">Linkedin</a> or Email me at **shubGithubMail@altmails.com**
 <!--
 - 📄 Know about my experiences [My Resume](https://shubanker.github.io/docs/Shubanker_resume.pdf)
   -->
