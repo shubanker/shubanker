@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at <a href="https://www.sap.com/india/about/labs-india.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="50" alt="SAP Labs"/></a>
 
-- 💬 Ask me about **Javascript Development**
+<!-- - 💬 Ask me about **Javascript Development** -->
 
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/shubanker" target="_blank">Linkedin</a> or Email me at **shubGithubMail@altmails.com**
 <!--
@@ -55,9 +55,9 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/shubanker/shubanker/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 <!--
 **shubanker/shubanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
