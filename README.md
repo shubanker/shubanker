@@ -15,12 +15,13 @@
 <!--
 - 📄 Know about my experiences [My Resume](https://shubanker.github.io/docs/Shubanker_resume.pdf)
   -->
+  <!--
 <p>
     <a align= "center" href="https://github.com/shubanker">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shubanker&theme=cobalt&show_icons=true&count_private=true" />
     </a>
 </p>
-
+-->
 <hr>
 
 <h3 align="left">Frontend Stack</h3>
